@@ -5,7 +5,7 @@ This contains the .exe file generated for a 64-bit windows machine.
 Instructions to use
 ====================
 
-1.Download the UniqueWordListGenerator.zip file 
+1.Download the UniqueWordListGenerator-master.zip file 
 
 2. Please right click on .zip file and extract it to a folder.
 
