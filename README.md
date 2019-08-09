@@ -18,7 +18,7 @@ Instructions to use
 
 **Please check using Notepad++ software whether all the text files have UTF-8 encoding. If they do not have UTF-8 encoding; Please change Encoding using Notepad++ software's Encoding menu and save the files again.Then copy the updated files to folder  where get_unique_list.exe is**
 
-6. Double click on get_unique_list.exe file the unique words files for all text files will be generated.
+6. Double click on get_unique_list.exe file.Then unique words files for all text files will be generated.
 
 7. yourfilename_unique.txt is the file that includes the unique words for each of text files you copied.(yourfilename is the name of the file you copied to get unique words)
 
